@@ -4,7 +4,7 @@
 ---
 # Turlututu
 ## Introduction: 
- Turlututu is an exercise that allowed us to put into practice all our HTML and CSS knowledge. <br>
+ Turlututu is an exercise that allowed us to practice all our HTML and CSS knowledge. <br>
  The goal was to clone a site with a simple image of the site as an example.
 
 # Link to the instructions:
