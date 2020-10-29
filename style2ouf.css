@@ -22,21 +22,49 @@ body nav, body section:hover{
     top: -1px;
 }
 
-#menu {
-    display: flex;
+header {
     background-color: #333333;
-    height: 45px;
-    margin-bottom: 0px;
+
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 140px;
 }
 
-#menu li {
-    font-size: smaller;
-    padding-top: 12px;
-    margin-left: 30px;
-    list-style: none;
-}
-menu li:last-child{
+.login {
+    display: flex;
     justify-content: flex-end;
+}
+.nav{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.nav ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.fas {
+    margin-left: 500px;
+    color: white;
+}
+.nav li {
+    margin-left: 24px;
+    font-size: 12px;
+}
+.nav a {
+    color: white;
+    text-decoration: none;
 }
    
 nav {
