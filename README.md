@@ -4,18 +4,14 @@
 ---
 # Turlututu
 ## Introduction: 
- Turlututu est un exercice qui nous a permis de mettre en pratique toute nos connaissance HTML et CSS. <br>
- Le but était de cloner une site avec comme exemple une simple image du site.
+ Turlututu is an exercise that allowed us to put into practice all our HTML and CSS knowledge. <br>
+ The goal was to clone a site with a simple image of the site as an example.
 
 # Link to the instructions:
->[Lien vers les instructions](https://github.com/becodeorg/bxl-hopper-1-25/blob/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/turlututu.png)
+> [Link to the instructions](https://github.com/becodeorg/bxl-hopper-1-25/blob/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/turlututu.png)
 
 ## Content:
 
 ![preview](preview.PNG)
-
-
-Translated with www.DeepL.com/Translator (free version)
-
 
 
