@@ -6,13 +6,7 @@ html {
     line-height: 23px;
 
 }
-/* body nav, body section{
-    transition-duration: 0.2s;  
-}
-body nav, body section:hover{
-    padding-top: 20px;
-    padding-bottom: 20px; 
-} */
+
 .textPlus {
     font-size: 27px;
 }
@@ -216,8 +210,7 @@ a{
 a:hover{
     background-color: tomato;
 }
-#but li:hover{
-    background-color: green;
-}
+.bouton div:hover{
+    border-color: red;
 
 
