@@ -20,47 +20,51 @@ header {
     background-color: #333333;
 
 }
+
 .navbar {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
 }
+
 .logo {
     display: flex;
     justify-content: flex-start;
     margin-left: 140px;
 }
 
-.login {
-    display: flex;
-    justify-content: flex-end;
-}
-.nav{
+
+.nav {
     display: flex;
     list-style: none;
     text-decoration: none;
     justify-content: space-between;
     flex-direction: row;
 }
+
 .nav ul {
     display: flex;
     justify-content: center;
     flex-direction: row;
 }
+
 .fas {
     margin-left: 500px;
     color: white;
+    font-size: 12px;
 }
+
 .nav li {
     margin-left: 24px;
     font-size: 12px;
 }
+
 .nav a {
     color: white;
     text-decoration: none;
 }
-   
+
 nav {
     height: 300px;
     background-color: #1E93CC;
@@ -104,6 +108,7 @@ nav div:nth-child(2) span:nth-child(3) {
     justify-content: center;
     transition-duration: 1s;
 }
+
 nav div:nth-child(2) span:nth-child(3):hover {
     background-color: green;
 }
@@ -113,8 +118,9 @@ nav div:nth-child(2) span:nth-child(3):hover {
     text-align: center;
     margin: 20px;
     color: black;
-   
+
 }
+
 .boxBlue {
     height: 360px;
     background-color: #1E93CC;
@@ -145,26 +151,30 @@ nav div:nth-child(2) span:nth-child(3):hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-   
+
 }
-.boxGrise1{
+
+.boxGrise1 {
     display: flex;
     height: 90px;
     justify-content: center;
     margin-top: 20px;
 }
-.boxGrise2{
+
+.boxGrise2 {
     display: flex;
     height: 100px;
     justify-content: center;
     margin-bottom: 40px;
 }
-.bouton{
+
+.bouton {
     display: flex;
     justify-content: center;
     padding-top: 5%;
 }
-.bouton div{
+
+.bouton div {
     display: flex;
     height: 60px;
     width: 200px;
@@ -177,40 +187,48 @@ nav div:nth-child(2) span:nth-child(3):hover {
     flex-direction: column;
     justify-content: center;
 }
-.bouton div:last-child{
-    background-color: #E99002;   
+
+.bouton div:last-child {
+    background-color: #E99002;
 }
-.lastWhiteBox{
+
+.lastWhiteBox {
     height: 250px;
-    
+
 }
-footer{
+
+footer {
     height: 50px;
-    background-color: #333333 ;
+    background-color: #333333;
 }
-footer ul{
+
+footer ul {
     display: flex;
-    list-style: none;  
+    list-style: none;
 }
-footer ul li{
+
+footer ul li {
     padding-left: 5px;
     padding-right: 10px;
     border-right: solid grey 0.5px;
 }
-#rightTurlu{
+
+#rightTurlu {
     position: relative;
     top: -40px;
     right: 10px;
-    float: right;  
+    float: right;
 }
-a{  
+
+a {
     color: whitesmoke;
     text-decoration: none;
 }
-a:hover{
+
+a:hover {
     background-color: tomato;
 }
-.bouton div:hover{
+
+.bouton div:hover {
     border-color: red;
-
-
+}
